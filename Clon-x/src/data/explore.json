@@ -1,0 +1,76 @@
+{
+  "news": [
+    {
+      "id": "n1",
+      "category": "Tecnología",
+      "time": "hace 2 horas",
+      "title": "La inteligencia artificial impulsa nuevas herramientas para el trabajo diario",
+      "posts": "12,4 mil",
+      "imageTone": "from-sky-200 to-indigo-300"
+    },
+    {
+      "id": "n2",
+      "category": "Deportes",
+      "time": "hace 3 horas",
+      "title": "La selección prepara su próximo reto con la mirada puesta en la afición",
+      "posts": "8.215",
+      "imageTone": "from-emerald-200 to-lime-300"
+    },
+    {
+      "id": "n3",
+      "category": "Música",
+      "time": "hace 5 horas",
+      "title": "Artistas colombianos anuncian una nueva colaboración para este año",
+      "posts": "4.608",
+      "imageTone": "from-fuchsia-200 to-rose-300"
+    },
+    {
+      "id": "n4",
+      "category": "Noticias",
+      "time": "hace 6 horas",
+      "title": "Comunidades locales presentan iniciativas para recuperar espacios públicos",
+      "posts": "2.391",
+      "imageTone": "from-amber-200 to-orange-300"
+    },
+    {
+      "id": "n5",
+      "category": "Entretenimiento",
+      "time": "hace 8 horas",
+      "title": "Una nueva serie se convierte en tema de conversación en redes",
+      "posts": "1.874",
+      "imageTone": "from-violet-200 to-purple-300"
+    },
+    {
+      "id": "n6",
+      "category": "Tecnología",
+      "time": "hace 10 horas",
+      "title": "Equipos de investigación trabajan en soluciones para una energía más limpia",
+      "posts": "1.203",
+      "imageTone": "from-teal-200 to-cyan-300"
+    },
+    {
+      "id": "n7",
+      "category": "Deportes",
+      "time": "hace 12 horas",
+      "title": "La final del torneo dejó una jornada llena de emoción y grandes jugadas",
+      "posts": "956",
+      "imageTone": "from-green-200 to-emerald-300"
+    },
+    {
+      "id": "n8",
+      "category": "Noticias",
+      "time": "hace 15 horas",
+      "title": "Así avanzan los proyectos de movilidad sostenible en las principales ciudades",
+      "posts": "742",
+      "imageTone": "from-blue-200 to-slate-300"
+    }
+  ],
+  "trends": [
+    { "id": "t1", "category": "Tendencia · Colombia", "tag": "#Colombia", "posts": "24,8 mil" },
+    { "id": "t2", "category": "Tecnología · Tendencia", "tag": "#InteligenciaArtificial", "posts": "18,2 mil" },
+    { "id": "t3", "category": "Deportes · Tendencia", "tag": "#FútbolColombiano", "posts": "12,6 mil" },
+    { "id": "t4", "category": "Música · Tendencia", "tag": "#MúsicaEnVivo", "posts": "9.408" },
+    { "id": "t5", "category": "Tendencia · Colombia", "tag": "#Bogotá", "posts": "7.215" },
+    { "id": "t6", "category": "Entretenimiento · Tendencia", "tag": "#Series", "posts": "5.802" }
+  ]
+}

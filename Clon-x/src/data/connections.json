@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sample-1",
+    "displayName": "Lucía Torres",
+    "username": "lucia_dev",
+    "photoURL": "https://i.pravatar.cc/150?img=47",
+    "bio": "Construyo productos digitales y comparto lo que aprendo."
+  },
+  {
+    "id": "sample-2",
+    "displayName": "Mateo Rojas",
+    "username": "mateo_rojas",
+    "photoURL": "https://i.pravatar.cc/150?img=12",
+    "bio": "Fútbol, café y buenas historias."
+  },
+  {
+    "id": "sample-3",
+    "displayName": "Valentina Cruz",
+    "username": "vale_cruz",
+    "photoURL": "https://i.pravatar.cc/150?img=44",
+    "bio": "Diseñadora. Me encanta transformar ideas en experiencias."
+  },
+  {
+    "id": "sample-4",
+    "displayName": "Santiago Mora",
+    "username": "santi_mora",
+    "photoURL": "https://i.pravatar.cc/150?img=13",
+    "bio": "Noticias de tecnología, ciencia y sostenibilidad."
+  },
+  {
+    "id": "sample-5",
+    "displayName": "Camila Vega",
+    "username": "cami_vega",
+    "photoURL": "https://i.pravatar.cc/150?img=49",
+    "bio": "Música en mis audífonos y aventuras en mi agenda."
+  },
+  {
+    "id": "sample-6",
+    "displayName": "Nicolás Pardo",
+    "username": "nico_pardo",
+    "photoURL": "https://i.pravatar.cc/150?img=14",
+    "bio": "Desarrollador web | JavaScript y código abierto."
+  },
+  {
+    "id": "sample-7",
+    "displayName": "Sara Molina",
+    "username": "sara_molina",
+    "photoURL": "https://i.pravatar.cc/150?img=45",
+    "bio": "Corredora aficionada. Un kilómetro a la vez."
+  },
+  {
+    "id": "sample-8",
+    "displayName": "Daniela Ruiz",
+    "username": "dani_ruiz",
+    "photoURL": "https://i.pravatar.cc/150?img=48",
+    "bio": "Cine, libros y conversaciones que inspiran."
+  },
+  {
+    "id": "sample-9",
+    "displayName": "Andrés Gil",
+    "username": "andres_gil",
+    "photoURL": "https://i.pravatar.cc/150?img=15",
+    "bio": "Aprendiendo algo nuevo cada día."
+  },
+  {
+    "id": "sample-10",
+    "displayName": "Mariana López",
+    "username": "mariana_lo",
+    "photoURL": "https://i.pravatar.cc/150?img=46",
+    "bio": "Periodista y curiosa por naturaleza."
+  }
+]

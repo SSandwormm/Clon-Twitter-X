@@ -1,0 +1,50 @@
+[
+  {
+    "id": "conversation-lucia",
+    "name": "Lucía Torres",
+    "username": "lucia_dev",
+    "photoURL": "https://i.pravatar.cc/150?img=47",
+    "lastMessage": "¡Me encantó esa idea!",
+    "time": "10:42",
+    "messages": [
+      { "id": "l1", "from": "them", "text": "Hola, ¿cómo va tu proyecto?" },
+      { "id": "l2", "from": "me", "text": "¡Muy bien! Ya estoy terminando los últimos detalles." },
+      { "id": "l3", "from": "them", "text": "¡Me encantó esa idea!" }
+    ]
+  },
+  {
+    "id": "conversation-mateo",
+    "name": "Mateo Rojas",
+    "username": "mateo_rojas",
+    "photoURL": "https://i.pravatar.cc/150?img=12",
+    "lastMessage": "¿Viste el partido de ayer?",
+    "time": "Ayer",
+    "messages": [
+      { "id": "m1", "from": "them", "text": "¿Viste el partido de ayer?" },
+      { "id": "m2", "from": "me", "text": "¡Sí! Estuvo buenísimo hasta el final." }
+    ]
+  },
+  {
+    "id": "conversation-camila",
+    "name": "Camila Vega",
+    "username": "cami_vega",
+    "photoURL": "https://i.pravatar.cc/150?img=49",
+    "lastMessage": "Te paso la playlist 🎵",
+    "time": "Lun",
+    "messages": [
+      { "id": "c1", "from": "me", "text": "¿Tienes recomendaciones para escuchar?" },
+      { "id": "c2", "from": "them", "text": "Te paso la playlist 🎵" }
+    ]
+  },
+  {
+    "id": "conversation-santiago",
+    "name": "Santiago Mora",
+    "username": "santi_mora",
+    "photoURL": "https://i.pravatar.cc/150?img=13",
+    "lastMessage": "Gracias por compartirlo.",
+    "time": "Dom",
+    "messages": [
+      { "id": "s1", "from": "them", "text": "Gracias por compartirlo." }
+    ]
+  }
+]

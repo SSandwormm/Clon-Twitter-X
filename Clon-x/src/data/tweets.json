@@ -1,0 +1,296 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "displayName": "Lucía Torres",
+      "username": "lucia_dev",
+      "photoURL": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": 2,
+      "displayName": "Mateo Rojas",
+      "username": "mateo_rojas",
+      "photoURL": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 3,
+      "displayName": "Valentina Cruz",
+      "username": "vale_cruz",
+      "photoURL": "https://i.pravatar.cc/150?img=44"
+    },
+    {
+      "id": 4,
+      "displayName": "Santiago Mora",
+      "username": "santi_mora",
+      "photoURL": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 5,
+      "displayName": "Camila Vega",
+      "username": "cami_vega",
+      "photoURL": "https://i.pravatar.cc/150?img=49"
+    },
+    {
+      "id": 6,
+      "displayName": "Nicolás Pardo",
+      "username": "nico_pardo",
+      "photoURL": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 7,
+      "displayName": "Sara Molina",
+      "username": "sara_molina",
+      "photoURL": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": 8,
+      "displayName": "Daniela Ruiz",
+      "username": "dani_ruiz",
+      "photoURL": "https://i.pravatar.cc/150?img=48"
+    },
+    {
+      "id": 9,
+      "displayName": "Andrés Gil",
+      "username": "andres_gil",
+      "photoURL": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": 10,
+      "displayName": "Mariana López",
+      "username": "mariana_lo",
+      "photoURL": "https://i.pravatar.cc/150?img=46"
+    },
+    {
+      "id": 11,
+      "displayName": "Gabriel Peña",
+      "username": "gabriel_p",
+      "photoURL": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 12,
+      "displayName": "Isabella Reyes",
+      "username": "isa_reyes",
+      "photoURL": "https://i.pravatar.cc/150?img=43"
+    },
+    {
+      "id": 13,
+      "displayName": "Tomás Herrera",
+      "username": "tomas_h",
+      "photoURL": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": 14,
+      "displayName": "Paula Castillo",
+      "username": "paula_castillo",
+      "photoURL": "https://i.pravatar.cc/150?img=42"
+    },
+    {
+      "id": 15,
+      "displayName": "Julián Navarro",
+      "username": "julian_n",
+      "photoURL": "https://i.pravatar.cc/150?img=18"
+    }
+  ],
+  "tweets": [
+  {
+    "id": 1,
+    "userId": 1,
+    "body": "Hoy lancé una pequeña app para organizar mis ideas. La mejor parte de programar es ver cómo algo imaginado empieza a funcionar. #Tecnología #Desarrollo"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "body": "La selección jugó con el corazón hasta el último minuto. Qué orgullo ver a todo un país unido por el fútbol. #Deportes #Fútbol"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "body": "Un disco nuevo puede cambiarte el día entero. Repetí la última canción cinco veces y todavía no me canso. #Música #Novedades"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "body": "La ciudad anunció más árboles para los parques del centro. Pequeñas noticias que hacen pensar en un futuro más verde. #Noticias #Ciudad"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "body": "Aprendiendo TypeScript con un proyecto real: cada error del compilador es una oportunidad para entender mejor el código. #Tecnología #TypeScript"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "body": "La final de anoche fue una locura. El último gol llegó cuando ya nadie se atrevía a mirar el reloj. #Deportes #Fútbol"
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "body": "Este fin de semana vuelvo a escuchar los clásicos que sonaban en casa. La música también guarda recuerdos. #Música #Clásicos"
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "body": "La biblioteca del barrio amplió su horario y ahora abre también los domingos. Buen plan para leer sin prisa. #Noticias #Lectura"
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "body": "Probé una herramienta nueva para diseñar interfaces y me sorprendió lo rápido que pude crear un prototipo. #Tecnología #Diseño"
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "body": "Récord personal en la carrera de hoy. No fue fácil salir de la cama, pero cada kilómetro valió la pena. #Deportes #Running"
+  },
+  {
+    "id": 11,
+    "userId": 11,
+    "body": "La banda confirmó una fecha más para su gira por Latinoamérica. Ya estoy buscando quién me acompaña. #Música #Concierto"
+  },
+  {
+    "id": 12,
+    "userId": 12,
+    "body": "Un grupo de estudiantes creó un huerto comunitario en su colegio. Ojalá más iniciativas así lleguen a todos los barrios. #Noticias #Comunidad"
+  },
+  {
+    "id": 13,
+    "userId": 13,
+    "body": "Hoy entendí por fin cómo funcionan las promesas en JavaScript. La práctica diaria sí hace diferencia. #Tecnología #JavaScript"
+  },
+  {
+    "id": 14,
+    "userId": 14,
+    "body": "El equipo remontó después de ir perdiendo por dos goles. Nunca hay que dejar de apoyar. #Deportes #Fútbol"
+  },
+  {
+    "id": 15,
+    "userId": 15,
+    "body": "Encontré una playlist perfecta para trabajar: tranquila, instrumental y sin una sola canción que quiera saltarme. #Música #Playlist"
+  },
+  {
+    "id": 16,
+    "userId": 1,
+    "body": "La actualización de seguridad ya está disponible. Revisen sus dispositivos y activen las actualizaciones automáticas. #Tecnología #Seguridad"
+  },
+  {
+    "id": 17,
+    "userId": 3,
+    "body": "El festival anunció su cartel completo y hay artistas para todos los gustos. Nos vemos frente al escenario. #Música #Festival"
+  },
+  {
+    "id": 18,
+    "userId": 5,
+    "body": "La misión espacial compartió imágenes increíbles de la Tierra. A veces hace falta mirar desde lejos para valorar lo que tenemos. #Noticias #Ciencia"
+  },
+  {
+    "id": 19,
+    "userId": 7,
+    "body": "Entrenar en equipo hace que hasta los días difíciles se sientan más ligeros. Gracias por la energía de hoy. #Deportes #Entrenamiento"
+  },
+  {
+    "id": 20,
+    "userId": 9,
+    "body": "Mi primer sitio accesible ya pasó todas las pruebas con teclado. Diseño inclusivo desde el inicio, no como último paso. #Tecnología #Accesibilidad"
+  },
+  {
+    "id": 21,
+    "userId": 2,
+    "body": "La ciudad tendrá una ciclovía nueva que conectará varios parques. Ojalá sea el comienzo de más espacios seguros. #Noticias #Movilidad"
+  },
+  {
+    "id": 22,
+    "userId": 4,
+    "body": "El partido se definió en penales y nadie se movió de su asiento. Qué deporte tan increíble. #Deportes #Fútbol"
+  },
+  {
+    "id": 23,
+    "userId": 6,
+    "body": "Fui a un concierto pequeño y sonó mejor que muchos estadios. La energía del público lo cambia todo. #Música #EnVivo"
+  },
+  {
+    "id": 24,
+    "userId": 8,
+    "body": "Un nuevo centro de salud abrió sus puertas en la zona sur. Más atención cercana para las familias de la comunidad. #Noticias #Salud"
+  },
+  {
+    "id": 25,
+    "userId": 10,
+    "body": "Automatizar una tarea repetitiva me ahorró horas esta semana. A veces una línea de código cambia la rutina. #Tecnología #Productividad"
+  },
+  {
+    "id": 26,
+    "userId": 12,
+    "body": "Qué alegría ver a las nuevas generaciones llenar las canchas del barrio. El deporte abre caminos. #Deportes #Juventud"
+  },
+  {
+    "id": 27,
+    "userId": 14,
+    "body": "Un álbum acústico para cerrar el día con calma. La voz y una guitarra son más que suficientes. #Música #Acústico"
+  },
+  {
+    "id": 28,
+    "userId": 11,
+    "body": "El pronóstico anuncia lluvias para toda la semana. Recuerden llevar paraguas y conducir con cuidado. #Noticias #Clima"
+  },
+  {
+    "id": 29,
+    "userId": 13,
+    "body": "Migré una aplicación vieja a componentes más simples y ahora es mucho más fácil probar cada parte. #Tecnología #React"
+  },
+  {
+    "id": 30,
+    "userId": 15,
+    "body": "La atleta local consiguió su clasificación internacional después de años de trabajo. Una historia para celebrar. #Deportes #Atletismo"
+  },
+  {
+    "id": 31,
+    "userId": 1,
+    "body": "El nuevo sencillo salió a medianoche y ya se convirtió en la banda sonora de mi mañana. #Música #Estreno"
+  },
+  {
+    "id": 32,
+    "userId": 3,
+    "body": "Una jornada de limpieza reunió a cientos de voluntarios en la playa. Gracias a quienes dedicaron su sábado. #Noticias #MedioAmbiente"
+  },
+  {
+    "id": 33,
+    "userId": 5,
+    "body": "Pequeño recordatorio: hacer pausas también forma parte del trabajo. Cerré el editor y salí a caminar diez minutos. #Tecnología #Bienestar"
+  },
+  {
+    "id": 34,
+    "userId": 7,
+    "body": "El equipo femenino ganó el campeonato regional y la celebración todavía sigue en el vestuario. #Deportes #FútbolFemenino"
+  },
+  {
+    "id": 35,
+    "userId": 9,
+    "body": "Descubrí un grupo nuevo gracias a una recomendación y ahora no puedo dejar de compartir sus canciones. #Música #Descubrimientos"
+  },
+  {
+    "id": 36,
+    "userId": 2,
+    "body": "El informe de hoy muestra avances en la recuperación de los humedales de la región. La conservación sí da resultados. #Noticias #Naturaleza"
+  },
+  {
+    "id": 37,
+    "userId": 4,
+    "body": "Mi aplicación carga mucho más rápido después de optimizar las imágenes. Un buen recordatorio de medir antes de cambiar. #Tecnología #Web"
+  },
+  {
+    "id": 38,
+    "userId": 6,
+    "body": "Noche de básquet con amigos: buen partido, buena compañía y cero ganas de revisar el teléfono. #Deportes #Básquet"
+  },
+  {
+    "id": 39,
+    "userId": 8,
+    "body": "La orquesta juvenil dará un concierto gratuito en la plaza el sábado. Apoyemos el talento local. #Música #Cultura"
+  },
+  {
+    "id": 40,
+    "userId": 10,
+    "body": "El observatorio anunció una noche abierta para ver las estrellas este viernes. El cielo también tiene noticias. #Noticias #Ciencia"
+  }
+  ]
+}

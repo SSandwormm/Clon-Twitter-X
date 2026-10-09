@@ -1,0 +1,49 @@
+[
+  {
+    "id": "like-1",
+    "type": "like",
+    "name": "Valentina Rojas",
+    "username": "valenrojas",
+    "text": "le gustó tu post",
+    "tweetPreview": "Hoy es un buen día para aprender algo nuevo."
+  },
+  {
+    "id": "follow-1",
+    "type": "follow",
+    "name": "Mateo García",
+    "username": "mateogarcia",
+    "text": "empezó a seguirte"
+  },
+  {
+    "id": "repost-1",
+    "type": "repost",
+    "name": "Camila Torres",
+    "username": "camilatorres",
+    "text": "reposteó tu post",
+    "tweetPreview": "La tecnología también puede acercarnos."
+  },
+  {
+    "id": "reply-1",
+    "type": "reply",
+    "name": "Andrés López",
+    "username": "andreslopez",
+    "text": "respondió a tu post",
+    "tweetPreview": "¡Totalmente de acuerdo! ¿Qué opinas de la nueva actualización?"
+  },
+  {
+    "id": "like-2",
+    "type": "like",
+    "name": "Lucía Herrera",
+    "username": "luciaherrera",
+    "text": "le gustó tu post",
+    "tweetPreview": "Un gran partido y una afición increíble. #Deportes"
+  },
+  {
+    "id": "reply-2",
+    "type": "reply",
+    "name": "Santiago Pérez",
+    "username": "santiagop",
+    "text": "mencionó tu post",
+    "tweetPreview": "Qué buena recomendación, voy a probarlo este fin de semana."
+  }
+]
